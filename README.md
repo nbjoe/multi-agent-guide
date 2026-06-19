@@ -173,4 +173,4 @@ Worker 会自动读取共享文档、执行开发任务、汇报结果。
 ---
 
 **平台：** [LobsterAI OpenClaw](https://github.com/openclaw/openclaw)
-**文档版本：** v2.1
+**文档版本：** v1.0

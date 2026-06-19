@@ -237,6 +237,6 @@ INTERFACES.md 中没有定义搜索接口的参数格式，需要 Main Agent 补
 
 ---
 
-**文档版本：** v2.1
+**文档版本：** v1.0
 **创建时间：** 2026-06-19
 **适用平台：** LobsterAI OpenClaw Subagent
